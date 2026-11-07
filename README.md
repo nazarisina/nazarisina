@@ -67,7 +67,7 @@ I may spend more time with roadmaps than registers now—but I still love making
 </div>
 
 ## GitHub telemetry
-
+<div align="center">
 
 ![GitHub streak](https://streak-stats.demolab.com?user=nazarisina&theme=tokyonight&hide_border=true)
 
@@ -75,6 +75,21 @@ I may spend more time with roadmaps than registers now—but I still love making
 ![Contribution snake](https://raw.githubusercontent.com/nazarisina/nazarisina/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nazarisina/nazarisina/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nazarisina/nazarisina/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Sina's contribution snake"
+    src="https://raw.githubusercontent.com/nazarisina/nazarisina/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## Side quests
 
