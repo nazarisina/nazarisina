@@ -68,17 +68,7 @@ I may spend more time with roadmaps than registers now—but I still love making
 
 ## GitHub telemetry
 
-<div align="center">
 
-<p align="center">
-  <img height="180"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazarisina&theme=tokyonight"
-       alt="Sina's GitHub stats" />
-
-  <img height="180"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazarisina&theme=tokyonight"
-       alt="Sina's most-used languages" />
-</p>
 ![GitHub streak](https://streak-stats.demolab.com?user=nazarisina&theme=tokyonight&hide_border=true)
 
 ![Contribution snake](https://raw.githubusercontent.com/nazarisina/nazarisina/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
