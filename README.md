@@ -70,18 +70,15 @@ I may spend more time with roadmaps than registers now—but I still love making
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nazarisina&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nazarisina&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=nazarisina&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Sina's GitHub stats" />
-</picture>
+<p align="center">
+  <img height="180"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazarisina&theme=tokyonight"
+       alt="Sina's GitHub stats" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarisina&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarisina&layout=compact&hide_border=true&theme=default&langs_count=8" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarisina&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Sina's most-used public languages" />
-</picture>
-
+  <img height="180"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazarisina&theme=tokyonight"
+       alt="Sina's most-used languages" />
+</p>
 ![GitHub streak](https://streak-stats.demolab.com?user=nazarisina&theme=tokyonight&hide_border=true)
 
 ![Contribution snake](https://raw.githubusercontent.com/nazarisina/nazarisina/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
