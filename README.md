@@ -71,8 +71,7 @@ I may spend more time with roadmaps than registers now—but I still love making
 
 ![GitHub streak](https://streak-stats.demolab.com?user=nazarisina&theme=tokyonight&hide_border=true)
 
-![Contribution snake](https://raw.githubusercontent.com/nazarisina/nazarisina/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Contribution snake](https://raw.githubusercontent.com/nazarisina/nazarisina/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 </div>
 
