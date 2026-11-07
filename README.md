@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=900&color=55D6BE&center=true&vCenter=true&random=false&width=720&lines=I+used+to+debug+pointers...;Now+I+debug+products+%26+organizations.;Still+building%E2%80%94now+with+AI+agents.;Turning+cloudy+problems+into+clear+products+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/nazarisina?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/nazarisina?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=nazarisina&style=for-the-badge&color=6C63FF)](https://github.com/nazarisina)
 [![ParsPack](https://img.shields.io/badge/Head_of_Product-ParsPack-00AEEF?style=for-the-badge&logo=icloud&logoColor=white)](https://parspack.com/)
 
 </div>
